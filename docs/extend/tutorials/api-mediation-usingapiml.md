@@ -300,7 +300,7 @@ As an API service developer, you set multiple configuration settings in your app
 
      Specifies the title of the API services product family. This value is displayed in the API catalog UI dashboard as the tile title:
 
-     ![Expanded Catalog Tile](../images/api-mediation/Expanded-Catalog-Tile.png)
+     ![Expanded Catalog Tile](../../images/api-mediation/Expanded-Catalog-Tile.png)
 
    - **mfaas.catalog-ui-tile.description**
 
